@@ -19,11 +19,10 @@
 #ifndef CPPREALM_BRIDGE_UUID_HPP
 #define CPPREALM_BRIDGE_UUID_HPP
 
-#include <cstdint>
-
 #include <cpprealm/internal/bridge/utils.hpp>
-#include <string_view>
 #include <array>
+#include <cstdint>
+#include <string_view>
 
 namespace realm {
     struct uuid;

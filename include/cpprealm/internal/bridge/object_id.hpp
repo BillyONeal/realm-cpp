@@ -19,10 +19,9 @@
 #ifndef CPPREALM_BRIDGE_OBJECT_ID_HPP
 #define CPPREALM_BRIDGE_OBJECT_ID_HPP
 
-#include <cstdint>
-
 #include <cpprealm/internal/bridge/utils.hpp>
 #include <array>
+#include <cstdint>
 
 namespace realm {
     struct object_id;
@@ -64,3 +63,4 @@ namespace realm::internal::bridge {
 }
 
 #endif //CPPREALM_BRIDGE_OBJECT_ID_HPP
+

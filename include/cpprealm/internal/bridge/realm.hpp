@@ -28,7 +28,6 @@
 #include <optional>
 #include <string>
 #include <vector>
-#include <cstdint>
 
 namespace realm {
     class Realm;
